@@ -1,0 +1,6 @@
+build
+sdkconfig
+.devcontainer
+.vscode 
+managed_components
+oldrealcodse.txt
